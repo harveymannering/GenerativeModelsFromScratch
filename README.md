@@ -4,3 +4,4 @@ This repo contains minimalistic deep generative models that can be used as start
  - Variations Autoencoders (VAEs)
  - Diffusion Models (DDPMs)
  - Generative Adversarial Networks (GANs)
+ - Autoregressive Models (PixelCNNs)
